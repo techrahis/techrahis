@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [helpwave-web](https://github.com/rajarshisamaddar/helpwave-web)
+- 🔭 I’m currently working on [Personal Projects](https://rajarshi-samaddar.web.app/)
 
 - 🌱 I’m currently learning to **collaborate better with people.**
 
