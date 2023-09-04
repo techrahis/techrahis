@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajarshi Samaddar</h1>
+<h2 align="center">Hi 👋, I'm Rajarshi Samaddar, currently building things for the web while pursuing my Bachelor Degree in Computer Science.</h2>
 
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Unicever](https://rajarshi-samaddar.web.app/) & [My Web Application](https://www.rajarshisamaddar.com/)
 
@@ -12,7 +9,6 @@
 
 - 📫 How to reach me hello@rajarshisamaddar.com.
 
----
 
 <h3>🛠 My Top Skills</h3>
 
