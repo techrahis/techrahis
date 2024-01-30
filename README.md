@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Rajarshi Samaddar, currently building things for the web while pursuing my Bachelor Degree in Computer Science.</h2>
 
 
-- 🔭 I’m currently working on [Unicever](https://github.com/rajarshisamaddar/unicever) & [My Web Application](https://www.rajarshisamaddar.com/)
+- 🔭 I’m currently working on [OrganizeMePro](https://github.com/rajarshisamaddar/OrganizeMePro)
 
-- 🌱 I’m currently learning to **Postgre SQL**.
+- 🌱 I'm currently diving deep into **MongoDB**.
 
-- 👨‍💻 My Web Application [rajarshisamaddar.com](https://www.rajarshisamaddar.com/)
+- 👨‍💻 My Portfolio [rajarshisamaddar.com](https://www.rajarshisamaddar.com/)
 
 - 📫 How to reach me hello@rajarshisamaddar.com.
 
