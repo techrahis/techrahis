@@ -9,7 +9,7 @@
 
 - 📧 Reach me at hello@rajarshisamaddar.com.
 
-- 📄 Resume at [api.rajarshisamaddar.com/resume](https://r4u.vercel.app/resume)
+- 📄 Resume at [https://r4u.vercel.app/resume](https://r4u.vercel.app/resume)
 
 
 <h3>🛠 My Top Skills</h3>
