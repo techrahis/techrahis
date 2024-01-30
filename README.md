@@ -5,9 +5,11 @@
 
 - 🌱 I'm currently diving deep into **MongoDB**.
 
-- 👨‍💻 My Portfolio [rajarshisamaddar.com](https://www.rajarshisamaddar.com/)
+- 💻 My Portfolio [rajarshisamaddar.com](https://www.rajarshisamaddar.com/)
 
-- 📫 How to reach me hello@rajarshisamaddar.com.
+- 📧 Reach me at hello@rajarshisamaddar.com.
+
+- 📄 Resume at [api.rajarshisamaddar.com/resume](https://r4u.vercel.app/resume)
 
 
 <h3>🛠 My Top Skills</h3>
