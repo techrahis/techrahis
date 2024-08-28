@@ -1,13 +1,13 @@
 <h2 align="center">Hi 👋, I'm Rajarshi Samaddar, currently building things for the web while pursuing my Bachelor Degree in Computer Science.</h2>
 
 
-- 🔭 I’m currently working on [OrganizeMePro](https://github.com/fstackraj/OrganizeMePro)
+- 🔭 I’m currently working on [OrganizeMePro](https://github.com/techrahis/OrganizeMePro)
 
 - 🌱 I'm currently diving deep into **MongoDB**.
 
-- 💻 My Portfolio [fstackraj.com](https://www.fstackraj.com/)
+- 💻 My Portfolio [example.com](https://www.example.com/)
 
-- 📧 Reach me at me@fstackraj.com.
+- 📧 Reach me at techrahis@outlook.com.
 
 - 📄 Resume at [https://api.fstackraj.com/resume](https://api.fstackraj.com/resume)
 
