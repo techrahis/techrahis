@@ -1,15 +1,15 @@
 <h2 align="center">Hi 👋, I'm Rajarshi Samaddar, currently building things for the web while pursuing my Bachelor Degree in Computer Science.</h2>
 
 
-- 🔭 I’m currently working on [OrganizeMePro](https://github.com/techrahis/OrganizeMePro)
+- 🔭 I’m currently working on [spirited-art](https://github.com/techrahis/spirited-art).
 
-- 🌱 I'm currently diving deep into **MongoDB**.
+- 🌱 I'm currently diving deep into **Design Principles**.
 
-- 💻 My Portfolio [example.com](https://www.example.com/)
+- 💻 My Portfolio [techrahis.com](https://www.techrahis.com/).
 
 - 📧 Reach me at techrahis@outlook.com.
 
-- 📄 Resume at [https://api.fstackraj.com/resume](https://api.fstackraj.com/resume)
+- 📄 Resume at [techrahis.com/Resume.pdf](https://techrahis.com/Resume.pdf).
 
 
 <h3>🛠 My Top Skills</h3>
