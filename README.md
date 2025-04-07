@@ -8,7 +8,7 @@
 
 - 📧 Reach me at techrahis@outlook.com.
 
-- 📄 Resume at [techrahis.com/Resume.pdf](https://techrahis.com/resume).
+- 📄 Resume at [techrahis.com/resume](https://techrahis.com/resume).
 
 
 <h3>🛠 My Top Skills</h3>
