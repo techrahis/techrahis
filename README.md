@@ -1,5 +1,4 @@
-<h2 align="center">Hi 👋, I'm Rajarshi Samaddar, currently building things for the web while pursuing my Bachelor Degree in Computer Science.</h2>
-
+<h2 align="center">Hi 👋, I'm Rajarshi Samaddar — a Lead Software Engineer and CS graduate passionate about architecting scalable backend systems that power great products.</h2>
 
 - 🔭 I’m currently working on [spirited-art](https://github.com/techrahis/spirited-art).
 
@@ -9,7 +8,7 @@
 
 - 📧 Reach me at techrahis@outlook.com.
 
-- 📄 Resume at [techrahis.com/Resume.pdf](https://techrahis.com/Resume.pdf).
+- 📄 Resume at [techrahis.com/Resume.pdf](https://techrahis.com/resume).
 
 
 <h3>🛠 My Top Skills</h3>
